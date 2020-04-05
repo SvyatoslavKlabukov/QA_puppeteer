@@ -1,0 +1,27 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "name": "5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.0",
+    "@babel/plugin-transform-runtime": "^7.9.0",
+    "@babel/preset-env": "^7.9.0",
+    "babel-core": "^6.26.3",
+    "babel-jest": "^25.2.6",
+    "babel-preset-env": "^1.7.0",
+    "faker": "^4.1.0",
+    "jest": "^25.2.7",
+    "jest-puppeteer": "^4.4.0",
+    "puppeteer": "^2.1.1",
+    "regenerator-runtime": "^0.13.5"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.8.7",
+    "ansi-styles": "^4.2.1"
+  }
+}
